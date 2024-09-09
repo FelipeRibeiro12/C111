@@ -7,7 +7,7 @@
 #select
 #print(nomes)
 #print(nomes[0])
-#print(nomes[1:3]) #! slicing - [i:j] / i = inclusive / j = exclusive / ignorando Goku e Gohan
+#print(nomes[1:3]) #! slicing - [i:j] / i = inclusive / j = exclusive / ignorando Goku e Gohan (dividir para conquistar)
 
 #insert, update, delete
 #nomes[0] = 'Picolo' ! tupla e um objeto imutavel
@@ -47,7 +47,7 @@
 #nomes.add('Bulma')
 #nomes.add('Goku') #! nao aceita valores duplicados
 
-#!update: remover um elemtento e adicionar outro
+#!update: remover um elemento e adicionar outro
 
 #delete
 #nomes.remove('Vegeta')
