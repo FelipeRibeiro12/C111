@@ -10,7 +10,7 @@ ds = np.loadtxt(file, delimiter=';',
 #                dtype='str', encoding='utf-8') #carregar dataset como texto(string)
 
 #print(ds) #mostrar o dataset
-#print('colunas:', ds[0, :]) #mostrar todas as infos da linha 0 (nome das colunas)
+#print('colunas:', ds[0, :]) #mostrar todas as colunas da linha 0 (nome das colunas)
 
 #quais as diferentes empresas que ja fizeream missoes espaciais segundo esse dataset?
 #extrair a coluna company name
